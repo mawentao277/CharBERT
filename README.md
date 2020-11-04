@@ -9,7 +9,8 @@
 This repository contains resources of the following [COLING 2020](https://www.coling2020.org) paper.  
 
 **Title: CharBERT: Character-aware Pre-trained Language Model**    
-Authors: Wentao Ma, Yiming Cui, Chenglei Si, Ting Liu, Shijin Wang, Guoping Hu 
+Authors: Wentao Ma, Yiming Cui, Chenglei Si, Ting Liu, Shijin Wang, Guoping Hu   
+Link: [https://arxiv.org/abs/2011.01513](https://arxiv.org/abs/2011.01513)
 
 <img src="data/CharBert.png" width="50%">
 
@@ -164,7 +165,14 @@ MODEL_DIR=YOUR_PATH_TO_MODEL_DIR
 ## Citation
 If you use the data or codes in this repository, please cite our paper.
 ```
-   we will release our paper soon
+@misc{ma2020charbert,
+      title={CharBERT: Character-aware Pre-trained Language Model}, 
+      author={Wentao Ma and Yiming Cui and Chenglei Si and Ting Liu and Shijin Wang and Guoping Hu},
+      year={2020},
+      eprint={2011.01513},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
 
 ## Issues
