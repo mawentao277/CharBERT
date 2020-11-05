@@ -12,7 +12,7 @@ This repository contains resources of the following [COLING 2020](https://www.co
 Authors: Wentao Ma, Yiming Cui, Chenglei Si, Ting Liu, Shijin Wang, Guoping Hu   
 Link: [https://arxiv.org/abs/2011.01513](https://arxiv.org/abs/2011.01513)
 
-<img src="data/CharBert.png" width="50%">
+<img src="data/CharBert.png" width="75%">
 
 ## Models
 We primarily provide two models. Here are the download links:   
@@ -66,7 +66,7 @@ For the evaluation tasks, we select SQuAD 2.0, CoNLL2003 NER, and QNLI.
 For example, the original example in QNLI:  
 ```
 Question: What came into force after the new constitution was herald?
-Sentence: As of that day, the new constitution he ralding the Second Republic came into force.
+Sentence: As of that day, the new constitution heralding the Second Republic came into force.
 Label: entailment
 ```
 
