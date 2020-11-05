@@ -155,11 +155,6 @@ python run_ner.py --data_dir ${DATA_DIR} \
                   --do_train \
                   --do_predict \
                   --overwrite_output_dir
-VOCAB_FILE=YOUR_PATH_TO_BERT/vocab.txt
-BERT_CONFIG_FILE=YOUR_PATH_TO_BERT/bert_config.json
-INIT_CKPT=YOUR_PATH_TO_BERT/bert_model.ckpt
-DATA_DIR=YOUR_PATH_TO_DATA
-MODEL_DIR=YOUR_PATH_TO_MODEL_DIR
 ```
 
 ## Citation
