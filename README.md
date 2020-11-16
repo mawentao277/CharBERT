@@ -16,8 +16,8 @@ Link: [https://arxiv.org/abs/2011.01513](https://arxiv.org/abs/2011.01513)
 
 ## Models
 We primarily provide two models. Here are the download links:   
-pre-trained CharBERT based on BERT [charbert-bert-wiki](http://pan.iflytek.com:80/link/0998E799C8FDD589C129FA5B0613360D) (password DIbF)  
-pre-trained CharBERT based on RoBERTa [charbert-roberta-wiki](http://pan.iflytek.com:80/link/8CE5A1A53F5E1C5D97A424A5586B594D) (password XKDC)  
+pre-trained CharBERT based on BERT [charbert-bert-wiki](https://drive.google.com/drive/folders/1jl1h6iKJsdUxq8Iu-dLoFLwE9WAGC47y)   
+pre-trained CharBERT based on RoBERTa [charbert-roberta-wiki](https://drive.google.com/drive/folders/1jl1h6iKJsdUxq8Iu-dLoFLwE9WAGC47y)  
 
 ## Directory Guide
 ```
