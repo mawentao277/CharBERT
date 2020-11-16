@@ -16,8 +16,8 @@ Link: [https://arxiv.org/abs/2011.01513](https://arxiv.org/abs/2011.01513)
 
 ## Models
 We primarily provide two models. Here are the download links:   
-pre-trained CharBERT based on BERT [charbert-bert-wiki](https://drive.google.com/drive/folders/1jl1h6iKJsdUxq8Iu-dLoFLwE9WAGC47y)   
-pre-trained CharBERT based on RoBERTa [charbert-roberta-wiki](https://drive.google.com/drive/folders/1jl1h6iKJsdUxq8Iu-dLoFLwE9WAGC47y)  
+pre-trained CharBERT based on BERT [charbert-bert-wiki](https://drive.google.com/file/d/1rF5_LbA2qIHuehnNepGmjz4Mu6OqEzYT/view?usp=sharing)    
+pre-trained CharBERT based on RoBERTa [charbert-roberta-wiki](https://drive.google.com/file/d/1tkO7_EH1Px7tXRxNDu6lzr_y8b4Q709f/view?usp=sharing)   
 
 ## Directory Guide
 ```
